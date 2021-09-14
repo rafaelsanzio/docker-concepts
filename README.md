@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img style="background-color: #312e38; border-radius: 10px;" alt="docker-logo" src="https://pplware.sapo.pt/wp-content/uploads/2019/03/docker_01-1.jpg" />
+  <img style="background-color: #312e38; border-radius: 10px;" alt="docker-logo" src="https://img.mandic.com.br/blog/2015/01/homepage-docker-logo.png" />
 </h1>
 
 ## 🔖 Sobre o projeto
